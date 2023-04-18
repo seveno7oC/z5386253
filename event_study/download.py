@@ -5,7 +5,7 @@ Utilities to download data from Yahoo Finance
 
 import yfinance as yf
 
-#from event_study import config as cfg
+from event_study import config as cfg
 #import config as cfg
 
 
